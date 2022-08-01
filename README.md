@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **no one has it all figured-out.**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
