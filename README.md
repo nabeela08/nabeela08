@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **nabeela0809@gmail.com**
 
-- ⚡ Fun fact **no one has it all figured-out.**
-
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
